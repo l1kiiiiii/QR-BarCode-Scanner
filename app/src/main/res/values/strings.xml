@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsciousCart</string>
+    <string name="scan">scan</string>
+    <string name="toggle_flashlight">Toggle Flashlight</string>
+</resources>
